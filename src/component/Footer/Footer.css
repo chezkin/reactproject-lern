@@ -1,0 +1,15 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgb(69, 67, 67);
+    color: aqua;
+}
+
+footer:hover{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgb(69, 67, 67);
+    color: rgb(234, 34, 12);
+}

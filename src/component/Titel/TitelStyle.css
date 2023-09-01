@@ -1,0 +1,15 @@
+.large{
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+.medium{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.small{
+    font-size: small;
+    font-weight: 200;
+}
+

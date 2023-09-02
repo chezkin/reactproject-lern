@@ -15,8 +15,7 @@ type Props = {
 };
 
 const Main = (props: Props) => {
-    // const [color, setColor] = useState('red');
-    // const cards: JSX.Element[] = props.data.map((book) => createBook(book));
+
     return (
         <div id='main'>
            { props.data.map((card) => {return(
